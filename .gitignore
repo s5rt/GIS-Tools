@@ -1,2 +1,9 @@
-/photos
-/kmz
+/IMGtoKML/kmz/files_geo
+/IMGtoKML/kmz/files_nongeo
+/IMGtoKML/kmz/files_nonimg
+/IMGtoKML/photos
+IMGtoKML/kmz/photo-marks.kmz
+KMZtoCSV/input.kmz
+KMZtoCSV/kmz_extracted/doc.kml
+IMGtoKML/kmz/photo-marks_report.csv
+KMZtoCSV/output.csv
